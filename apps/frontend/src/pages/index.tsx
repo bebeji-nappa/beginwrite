@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from "react"
 import axios from 'axios';
+import HeadingText from "@/components/atoms/HeadingText";
 
 type Data = {
   data: string
@@ -21,6 +22,8 @@ export default function Home() {
   });
 
   return (
-    <h1>{message} + Next.js!</h1>
+    <HeadingText size={1}>
+      {message} + Next.js!
+    </HeadingText>
   )
 }
