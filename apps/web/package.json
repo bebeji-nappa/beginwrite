@@ -24,7 +24,7 @@
     "@as-integrations/next": "^3.1.0",
     "@beginwrite/app-graphql-codegen": "workspace:*",
     "@emotion/styled": "^11.13.0",
-    "@types/node": "20.12.7",
+    "@types/node": "20.16.10",
     "@types/react": "18.2.79",
     "@types/react-dom": "18.2.25",
     "apollo-upload-client": "^18.0.1",
