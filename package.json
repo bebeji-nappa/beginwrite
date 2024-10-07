@@ -17,7 +17,7 @@
   "dependencies": {
     "@nestjs/cli": "^10.4.2",
     "husky": "^9.0.11",
-    "lint-staged": "15.2.7",
+    "lint-staged": "15.2.10",
     "turbo": "^2.0.6"
   }
 }
