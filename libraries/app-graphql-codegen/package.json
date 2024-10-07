@@ -15,14 +15,14 @@
     "start:dev": "pnpm build"
   },
   "dependencies": {
-    "@graphql-codegen/cli": "^5.0.2",
-    "@graphql-codegen/client-preset": "^4.3.2",
-    "@graphql-codegen/fragment-matcher": "^5.0.2",
-    "@graphql-codegen/introspection": "^4.0.3",
-    "@graphql-codegen/typescript": "^4.0.6",
-    "@graphql-codegen/typescript-resolvers": "^4.0.6",
-    "npm-run-all2": "^5.0.0",
-    "typescript": "^5.4.5"
+    "@graphql-codegen/cli": "5.0.2",
+    "@graphql-codegen/client-preset": "4.3.2",
+    "@graphql-codegen/fragment-matcher": "5.0.2",
+    "@graphql-codegen/introspection": "4.0.3",
+    "@graphql-codegen/typescript": "4.0.9",
+    "@graphql-codegen/typescript-resolvers": "4.2.1",
+    "npm-run-all2": "5.0.2",
+    "typescript": "5.5.3"
   },
   "devDependencies": {
     "@graphql-codegen/schema-ast": "4.1.0",
