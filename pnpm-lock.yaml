@@ -106,28 +106,28 @@ importers:
         version: 0.3.20(ioredis@5.4.1)(mysql2@3.11.3)(ts-node@10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.11.24)(typescript@5.6.2))
     devDependencies:
       '@aws-sdk/client-s3':
-        specifier: 3.665.0
+        specifier: ^3.665.0
         version: 3.665.0
       '@nestjs/cli':
-        specifier: 10.4.5
+        specifier: ^10.4.5
         version: 10.4.5(@swc/core@1.7.26(@swc/helpers@0.5.11))
       '@nestjs/schematics':
-        specifier: 10.1.4
+        specifier: ^10.1.4
         version: 10.1.4(chokidar@3.6.0)(typescript@5.6.2)
       '@nestjs/testing':
         specifier: ^10.4.4
         version: 10.4.4(@nestjs/common@10.4.4(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.4.4(@nestjs/common@10.4.4(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/microservices@10.4.4)(@nestjs/platform-express@10.4.4)(encoding@0.1.13)(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/microservices@10.4.4(@nestjs/common@10.4.4(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.4.4)(ioredis@5.4.1)(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/platform-express@10.4.4(@nestjs/common@10.4.4(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.4.4))
       '@types/bcrypt':
-        specifier: 5.0.2
+        specifier: ^5.0.2
         version: 5.0.2
       '@types/bcryptjs':
-        specifier: 2.4.6
+        specifier: ^2.4.6
         version: 2.4.6
       '@types/express':
-        specifier: 4.17.21
+        specifier: ^4.17.21
         version: 4.17.21
       '@types/express-session':
-        specifier: 1.18.0
+        specifier: ^1.18.0
         version: 1.18.0
       '@types/jest':
         specifier: 29.5.13
@@ -269,76 +269,76 @@ importers:
         version: 6.19.8
     devDependencies:
       '@jest/globals':
-        specifier: 29.7.0
+        specifier: ^29.7.0
         version: 29.7.0
       '@mswjs/data':
-        specifier: 0.16.2
+        specifier: ^0.16.2
         version: 0.16.2(typescript@5.4.5)
       '@playwright/test':
-        specifier: 1.47.2
+        specifier: ^1.47.2
         version: 1.47.2
       '@storybook/addon-a11y':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(storybook@8.3.5)
       '@storybook/addon-controls':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(storybook@8.3.5)
       '@storybook/addon-essentials':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(storybook@8.3.5)(webpack-sources@3.2.3)
       '@storybook/addon-interactions':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(storybook@8.3.5)
       '@storybook/addon-links':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(react@18.2.0)(storybook@8.3.5)
       '@storybook/addon-onboarding':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(react@18.2.0)(storybook@8.3.5)
       '@storybook/blocks':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(storybook@8.3.5)
       '@storybook/cli':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(@babel/preset-env@7.25.7(@babel/core@7.25.7))
       '@storybook/nextjs':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(@swc/core@1.7.26(@swc/helpers@0.5.11))(babel-plugin-macros@3.1.0)(esbuild@0.23.1)(next@14.2.2(@babel/core@7.25.7)(@playwright/test@1.47.2)(babel-plugin-macros@3.1.0)(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(storybook@8.3.5)(type-fest@4.26.1)(typescript@5.4.5)(webpack-hot-middleware@2.26.1)(webpack@5.95.0(@swc/core@1.7.26(@swc/helpers@0.5.11))(esbuild@0.23.1))
       '@storybook/react':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(@storybook/test@8.3.5(storybook@8.3.5))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(storybook@8.3.5)(typescript@5.4.5)
       '@storybook/test':
-        specifier: 8.3.5
+        specifier: ^8.3.5
         version: 8.3.5(storybook@8.3.5)
       '@storybook/test-runner':
-        specifier: 0.17.0
+        specifier: ^0.17.0
         version: 0.17.0(@swc/helpers@0.5.11)(@types/node@20.12.7)(babel-plugin-macros@3.1.0)(storybook@8.3.5)(ts-node@10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.12.7)(typescript@5.4.5))
       '@testing-library/dom':
-        specifier: 10.4.0
+        specifier: ^10.4.0
         version: 10.4.0
       '@testing-library/jest-dom':
-        specifier: 6.5.0
+        specifier: ^6.5.0
         version: 6.5.0
       '@testing-library/react':
-        specifier: 15.0.7
+        specifier: ^15.0.7
         version: 15.0.7(@types/react@18.2.79)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       '@testing-library/user-event':
-        specifier: 14.5.2
+        specifier: ^14.5.2
         version: 14.5.2(@testing-library/dom@10.4.0)
       '@types/apollo-upload-client':
-        specifier: 18.0.0
+        specifier: ^18.0.0
         version: 18.0.0(@types/react@18.2.79)(graphql-ws@5.16.0(graphql@16.9.0))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(subscriptions-transport-ws@0.11.0(graphql@16.9.0))
       '@types/jest':
         specifier: 29.5.13
         version: 29.5.13
       chromatic:
-        specifier: 11.11.0
+        specifier: ^11.11.0
         version: 11.11.0
       cross-fetch:
-        specifier: 4.0.0
+        specifier: ^4.0.0
         version: 4.0.0(encoding@0.1.13)
       eslint-config-prettier:
-        specifier: 9.1.0
+        specifier: ^9.1.0
         version: 9.1.0(eslint@8.57.0)
       eslint-plugin-import:
         specifier: ^2.31.0
@@ -415,7 +415,7 @@ importers:
         version: 4.1.0(graphql@16.9.0)
       '@graphql-codegen/typescript-msw':
         specifier: 3.0.0
-        version: 3.0.0(encoding@0.1.13)(graphql@16.9.0)(msw@2.3.1(typescript@5.5.3))
+        version: 3.0.0(encoding@0.1.13)(graphql@16.9.0)(msw@2.4.9(typescript@5.5.3))
       '@graphql-codegen/typescript-operations':
         specifier: 4.2.3
         version: 4.2.3(encoding@0.1.13)(graphql@16.9.0)
@@ -423,8 +423,8 @@ importers:
         specifier: 3.8.0
         version: 3.8.0(graphql@16.9.0)
       msw:
-        specifier: 2.3.1
-        version: 2.3.1(typescript@5.5.3)
+        specifier: 2.4.9
+        version: 2.4.9(typescript@5.5.3)
 
 packages:
 
@@ -2283,16 +2283,8 @@ packages:
       '@types/react': '>=16'
       react: '>=16'
 
-  '@mswjs/cookies@1.1.0':
-    resolution: {integrity: sha512-0ZcCVQxifZmhwNBoQIrystCb+2sWBY2Zw8lpfJBPCHGCA/HWqehITeCRVIv4VMy8MPlaHo2w2pTHFV2pFfqKPw==}
-    engines: {node: '>=18'}
-
   '@mswjs/data@0.16.2':
     resolution: {integrity: sha512-/C0d/PBcJyQJokUhcjO4HiZPc67hzllKlRtD1XELygl2t991/ATAAQJVcStn4YtVALsNodruzOHT0JIvgr0hnA==}
-
-  '@mswjs/interceptors@0.29.1':
-    resolution: {integrity: sha512-3rDakgJZ77+RiQUuSK69t1F0m8BQKA8Vh5DCS5V0DWvNY67zob2JhhQrhCO0AKLGINTRSFd1tBaHcJTkhefoSw==}
-    engines: {node: '>=18'}
 
   '@mswjs/interceptors@0.35.9':
     resolution: {integrity: sha512-SSnyl/4ni/2ViHKkiZb8eajA/eN1DNFaHjhGiLUdZvDz6PKF4COSf/17xqSz64nOo2Ia29SA6B2KNCsyCbVmaQ==}
@@ -7036,16 +7028,6 @@ packages:
     peerDependencies:
       msw: ^2.0.0
 
-  msw@2.3.1:
-    resolution: {integrity: sha512-ocgvBCLn/5l3jpl1lssIb3cniuACJLoOfZu01e3n5dbJrpA5PeeWn28jCLgQDNt6d7QT8tF2fYRzm9JoEHtiig==}
-    engines: {node: '>=18'}
-    hasBin: true
-    peerDependencies:
-      typescript: '>= 4.7.x'
-    peerDependenciesMeta:
-      typescript:
-        optional: true
-
   msw@2.4.9:
     resolution: {integrity: sha512-1m8xccT6ipN4PTqLinPwmzhxQREuxaEJYdx4nIbggxP8aM7r1e71vE7RtOUSQoAm1LydjGfZKy7370XD/tsuYg==}
     engines: {node: '>=18'}
@@ -11435,14 +11417,14 @@ snapshots:
       - encoding
       - supports-color
 
-  '@graphql-codegen/typescript-msw@3.0.0(encoding@0.1.13)(graphql@16.9.0)(msw@2.3.1(typescript@5.5.3))':
+  '@graphql-codegen/typescript-msw@3.0.0(encoding@0.1.13)(graphql@16.9.0)(msw@2.4.9(typescript@5.5.3))':
     dependencies:
       '@graphql-codegen/plugin-helpers': 3.1.2(graphql@16.9.0)
       '@graphql-codegen/visitor-plugin-common': 2.13.1(encoding@0.1.13)(graphql@16.9.0)
       auto-bind: 4.0.0
       change-case-all: 1.0.15
       graphql: 16.9.0
-      msw: 2.3.1(typescript@5.5.3)
+      msw: 2.4.9(typescript@5.5.3)
       tslib: 2.6.3
     transitivePeerDependencies:
       - encoding
@@ -12038,14 +12020,14 @@ snapshots:
       '@jest/test-result': 29.7.0
       '@jest/transform': 29.7.0
       '@jest/types': 29.6.3
-      '@types/node': 20.11.24
+      '@types/node': 20.12.7
       ansi-escapes: 4.3.2
       chalk: 4.1.2
       ci-info: 3.9.0
       exit: 0.1.2
       graceful-fs: 4.2.11
       jest-changed-files: 29.7.0
-      jest-config: 29.7.0(@types/node@20.11.24)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.11.24)(typescript@5.6.2))
+      jest-config: 29.7.0(@types/node@20.12.7)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.11.24)(typescript@5.6.2))
       jest-haste-map: 29.7.0
       jest-message-util: 29.7.0
       jest-regex-util: 29.6.3
@@ -12073,14 +12055,14 @@ snapshots:
       '@jest/test-result': 29.7.0
       '@jest/transform': 29.7.0
       '@jest/types': 29.6.3
-      '@types/node': 20.11.24
+      '@types/node': 20.12.7
       ansi-escapes: 4.3.2
       chalk: 4.1.2
       ci-info: 3.9.0
       exit: 0.1.2
       graceful-fs: 4.2.11
       jest-changed-files: 29.7.0
-      jest-config: 29.7.0(@types/node@20.11.24)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.12.7)(typescript@5.4.5))
+      jest-config: 29.7.0(@types/node@20.12.7)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.12.7)(typescript@5.4.5))
       jest-haste-map: 29.7.0
       jest-message-util: 29.7.0
       jest-regex-util: 29.6.3
@@ -12279,8 +12261,6 @@ snapshots:
       '@types/react': 18.2.79
       react: 18.2.0
 
-  '@mswjs/cookies@1.1.0': {}
-
   '@mswjs/data@0.16.2(typescript@5.4.5)':
     dependencies:
       '@types/lodash': 4.17.10
@@ -12301,15 +12281,6 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
       - typescript
-
-  '@mswjs/interceptors@0.29.1':
-    dependencies:
-      '@open-draft/deferred-promise': 2.2.0
-      '@open-draft/logger': 0.3.0
-      '@open-draft/until': 2.1.0
-      is-node-process: 1.2.0
-      outvariant: 1.4.3
-      strict-event-emitter: 0.5.1
 
   '@mswjs/interceptors@0.35.9':
     dependencies:
@@ -17578,7 +17549,7 @@ snapshots:
       - babel-plugin-macros
       - supports-color
 
-  jest-config@29.7.0(@types/node@20.11.24)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.12.7)(typescript@5.4.5)):
+  jest-config@29.7.0(@types/node@20.12.7)(babel-plugin-macros@3.1.0)(ts-node@10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.11.24)(typescript@5.6.2)):
     dependencies:
       '@babel/core': 7.25.7
       '@jest/test-sequencer': 29.7.0
@@ -17603,8 +17574,8 @@ snapshots:
       slash: 3.0.0
       strip-json-comments: 3.1.1
     optionalDependencies:
-      '@types/node': 20.11.24
-      ts-node: 10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.12.7)(typescript@5.4.5)
+      '@types/node': 20.12.7
+      ts-node: 10.9.2(@swc/core@1.7.26(@swc/helpers@0.5.11))(@types/node@20.11.24)(typescript@5.6.2)
     transitivePeerDependencies:
       - babel-plugin-macros
       - supports-color
@@ -18568,28 +18539,6 @@ snapshots:
       is-node-process: 1.2.0
       msw: 2.4.9(typescript@5.4.5)
 
-  msw@2.3.1(typescript@5.5.3):
-    dependencies:
-      '@bundled-es-modules/cookie': 2.0.0
-      '@bundled-es-modules/statuses': 1.0.1
-      '@inquirer/confirm': 3.2.0
-      '@mswjs/cookies': 1.1.0
-      '@mswjs/interceptors': 0.29.1
-      '@open-draft/until': 2.1.0
-      '@types/cookie': 0.6.0
-      '@types/statuses': 2.0.5
-      chalk: 4.1.2
-      graphql: 16.9.0
-      headers-polyfill: 4.0.3
-      is-node-process: 1.2.0
-      outvariant: 1.4.3
-      path-to-regexp: 6.3.0
-      strict-event-emitter: 0.5.1
-      type-fest: 4.26.1
-      yargs: 17.7.2
-    optionalDependencies:
-      typescript: 5.5.3
-
   msw@2.4.9(typescript@5.4.5):
     dependencies:
       '@bundled-es-modules/cookie': 2.0.0
@@ -18611,6 +18560,28 @@ snapshots:
       yargs: 17.7.2
     optionalDependencies:
       typescript: 5.4.5
+
+  msw@2.4.9(typescript@5.5.3):
+    dependencies:
+      '@bundled-es-modules/cookie': 2.0.0
+      '@bundled-es-modules/statuses': 1.0.1
+      '@bundled-es-modules/tough-cookie': 0.1.6
+      '@inquirer/confirm': 3.2.0
+      '@mswjs/interceptors': 0.35.9
+      '@open-draft/until': 2.1.0
+      '@types/cookie': 0.6.0
+      '@types/statuses': 2.0.5
+      chalk: 4.1.2
+      graphql: 16.9.0
+      headers-polyfill: 4.0.3
+      is-node-process: 1.2.0
+      outvariant: 1.4.3
+      path-to-regexp: 6.3.0
+      strict-event-emitter: 0.5.1
+      type-fest: 4.26.1
+      yargs: 17.7.2
+    optionalDependencies:
+      typescript: 5.5.3
 
   multer@1.4.4-lts.1:
     dependencies:
